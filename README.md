@@ -19,7 +19,22 @@ The task was to build a console program that takes customer orders from a menu, 
 - Change returned in Bangladeshi currency notes (1000 → 1 TK) + cents
 - Basic input validation
 
-#### Sample Output Look
+
+
+## Output Cases
+
+##### Output Case 1
+<img src="https://github.com/user-attachments/assets/64fa9971-b17a-403f-8bf0-c2de7cbdc0f8" alt="output1" width="400" />
+
+##### Output Case 2
+<img src="https://github.com/user-attachments/assets/3e575c79-bf4b-4c17-a22a-0fcb8b6a8ddb" alt="output2" width="400" />
+
+##### Output Case 3
+<img src="https://github.com/user-attachments/assets/e53189ea-fd09-45e3-a433-7e935057d053" alt="output3" width="400" />
+
+##### Output Case 4
+<img src="https://github.com/user-attachments/assets/fe4999d0-a316-4b62-ab9d-800cdab55c89" alt="output4" width="400" />
+
 
 
 #### Technologies Used
